@@ -1,0 +1,18 @@
+{
+  "name": "jquery-xsrf",
+  "version": "0.0.0",
+  "homepage": "https://github.com/NewOrbit/jquery-xsrf",
+  "authors": [
+    "NewOrbit"
+  ],
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
